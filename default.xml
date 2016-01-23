@@ -165,6 +165,7 @@
 	<project path="kernel/goldelico/gta04" name="replicant/kernel_goldelico_gta04.git" remote="replicant" revision="replicant-4.2" groups="device" />
 	<project path="kernel/samsung/aries" name="replicant/kernel_samsung_aries.git" remote="replicant" revision="replicant-4.2" groups="device" />
 	<project path="kernel/samsung/crespo" name="replicant/kernel_samsung_crespo.git" remote="replicant" revision="replicant-4.2" groups="device" />
+	<project path="kernel/samsung/msm8930-common" name="davispuh/android_kernel_samsung_msm8930-common.git" revision="s4mini" groups="device" />
 	<project path="kernel/samsung/smdk4412" name="replicant/kernel_samsung_smdk4412.git" remote="replicant" revision="replicant-4.2" groups="device" />
 	<project path="kernel/samsung/tuna" name="replicant/kernel_samsung_tuna.git" remote="replicant" revision="replicant-4.2" groups="device" />
 	<project path="kernel/samsung/espresso10" name="replicant/kernel_samsung_espresso10.git" remote="replicant" revision="replicant-4.2" groups="device" />
@@ -189,6 +190,7 @@
 	<project path="device/samsung/i9100" name="replicant/device_samsung_i9100.git" remote="replicant" revision="replicant-4.2" groups="device" />
 	<project path="device/samsung/i9300" name="replicant/device_samsung_i9300.git" remote="replicant" revision="replicant-4.2" groups="device" />
 	<project path="device/samsung/maguro" name="replicant/device_samsung_maguro.git" remote="replicant" revision="replicant-4.2" groups="device" />
+	<project path="device/samsung/msm8930-common" name="davispuh/android_device_samsung_msm8930-common.git" revision="s4mini" groups="device" />
 	<project path="device/samsung/n7000" name="replicant/device_samsung_n7000.git" remote="replicant" revision="replicant-4.2" groups="device" />
 	<project path="device/samsung/n7100" name="replicant/device_samsung_n7100.git" remote="replicant" revision="replicant-4.2" groups="device" />
 	<project path="device/samsung/omap4-common" name="replicant/device_samsung_omap4-common.git" remote="replicant" revision="replicant-4.2" groups="device" />
@@ -196,6 +198,9 @@
 	<project path="device/samsung/p3110" name="replicant/device_samsung_p3110.git" remote="replicant" revision="replicant-4.2" groups="device" />
 	<project path="device/samsung/p5100" name="replicant/device_samsung_p5100.git" remote="replicant" revision="replicant-4.2" groups="device" />
 	<project path="device/samsung/p5110" name="replicant/device_samsung_p5110.git" remote="replicant" revision="replicant-4.2" groups="device" />
+	<project path="device/samsung/qcom-common" name="davispuh/android_device_samsung_qcom-common.git" revision="s4mini" groups="device" />
+	<project path="device/samsung/serrano-common" name="davispuh/android_device_samsung_serrano-common.git" revision="s4mini" groups="device" />
+	<project path="device/samsung/serranoltexx" name="davispuh/android_device_samsung_serranoltexx.git" revision="s4mini" groups="device" />
 	<project path="device/samsung/smdk4412-common" name="replicant/device_samsung_smdk4412-common.git" remote="replicant" revision="replicant-4.2" groups="device" />
 	<project path="device/samsung/tuna" name="replicant/device_samsung_tuna.git" remote="replicant" revision="replicant-4.2" groups="device" />
 	<project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" groups="device" />
